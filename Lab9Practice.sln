@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorDemo", "ElevatorDemo\ElevatorDemo.csproj", "{86EFF8FD-9FEE-40FA-9BC2-87E9C2693B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructsClassesRecords", "StructsClassesRecords\StructsClassesRecords.csproj", "{0A5060E5-0D64-4E1D-9112-3A36C75AEBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EFF8FD-9FEE-40FA-9BC2-87E9C2693B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EFF8FD-9FEE-40FA-9BC2-87E9C2693B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EFF8FD-9FEE-40FA-9BC2-87E9C2693B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EFF8FD-9FEE-40FA-9BC2-87E9C2693B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5060E5-0D64-4E1D-9112-3A36C75AEBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5060E5-0D64-4E1D-9112-3A36C75AEBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5060E5-0D64-4E1D-9112-3A36C75AEBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5060E5-0D64-4E1D-9112-3A36C75AEBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A239EF80-F64D-4BFC-B16C-4C0CCDB09C7B}
+	EndGlobalSection
+EndGlobal
